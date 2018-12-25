@@ -29,3 +29,4 @@ The `entity_id` names will be `light.device_name`, where `device_name` is define
 - Philips Hue White Ambiance A19
 - Philips Hue Hue White ambiance Milliskin (recessed spotlight) LTW013
 - Busch Jaeger ZigBee Light Link univ. relai (6711 U) with ZigBee Light Link control element 6735-84
+- Paulmann Gatria LED-reflector 4,8 W GU10 Tunable white
